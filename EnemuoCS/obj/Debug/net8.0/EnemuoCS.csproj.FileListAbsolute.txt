@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\EnemuoCS\bin\Debug\net8.0\EnemuoCS.exe
+C:\Users\DELL\Desktop\EnemuoCS\bin\Debug\net8.0\EnemuoCS.deps.json
+C:\Users\DELL\Desktop\EnemuoCS\bin\Debug\net8.0\EnemuoCS.runtimeconfig.json
+C:\Users\DELL\Desktop\EnemuoCS\bin\Debug\net8.0\EnemuoCS.dll
+C:\Users\DELL\Desktop\EnemuoCS\bin\Debug\net8.0\EnemuoCS.pdb
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.dll
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\refint\EnemuoCS.dll
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.pdb
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\EnemuoCS.genruntimeconfig.cache
+C:\Users\DELL\Desktop\EnemuoCS\obj\Debug\net8.0\ref\EnemuoCS.dll
